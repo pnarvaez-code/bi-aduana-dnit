@@ -213,7 +213,7 @@ Abrir `power_bi/dashboard_aduana.pbix` en Power BI Desktop
 
 ## 👤 Autor
 
-**Richard Steven Paredes Insfrán**  
+**Pedro Pablo Narváez Benitez**  
 Ingeniería en Sistemas - Universidad Columbia del Paraguay  
 2026
 
