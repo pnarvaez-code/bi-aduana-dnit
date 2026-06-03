@@ -3,7 +3,7 @@
 **Carrera:** Ingeniería en Sistemas  
 **Institución:** Universidad Columbia del Paraguay  
 **Materia:** Inteligencia de Negocios (BI)  
-**Estudiante:** Richard Steven Paredes Insfrán  
+**Estudiante:** Pedro Pablo Narváez Benitez
 **Año:** 2026  
 
 ---
